@@ -1,0 +1,22 @@
+{
+  "name": "email-processing-nodejs",
+  "version": "1.0.0",
+  "description": "Processing emails using NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsantos09/Email-Processing-NodeJS.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Bruno Santos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bsantos09/Email-Processing-NodeJS/issues"
+  },
+  "homepage": "https://github.com/bsantos09/Email-Processing-NodeJS#readme"
+}
