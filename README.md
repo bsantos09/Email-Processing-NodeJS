@@ -1,2 +1,2 @@
 # Email-Processing-NodeJS
-Processing emails using NodeJS and taking appropriate actions
+Basic Email Processing using NodeJS
