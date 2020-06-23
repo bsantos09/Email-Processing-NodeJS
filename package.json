@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/bsantos09/Email-Processing-NodeJS/issues"
   },
-  "homepage": "https://github.com/bsantos09/Email-Processing-NodeJS#readme"
+  "homepage": "https://github.com/bsantos09/Email-Processing-NodeJS#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "imap": "^0.8.19",
+    "imap-simple": "^5.0.0",
+    "lodash": "^4.17.15",
+    "mailparser": "^2.7.7"
+  }
 }
