@@ -23,7 +23,7 @@
     "dotenv": "^8.2.0",
     "imap": "^0.8.19",
     "imap-simple": "^5.0.0",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "mailparser": "^2.7.7"
   }
 }
